@@ -1,0 +1,5 @@
+name: TorchMC-Lobby
+version: '1.0'
+main: xyz.kozord.torchmclobby.TorchMCLobby
+authors: [kozord]
+api-version: '1.18'
